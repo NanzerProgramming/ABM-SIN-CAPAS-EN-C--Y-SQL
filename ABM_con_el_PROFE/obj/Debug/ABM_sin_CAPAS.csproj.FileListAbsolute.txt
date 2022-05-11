@@ -1,0 +1,10 @@
+C:\Users\manue\source\repos\ABM_con_el_PROFE\ABM_con_el_PROFE\bin\Debug\ABM_con_el_PROFE.exe.config
+C:\Users\manue\source\repos\ABM_con_el_PROFE\ABM_con_el_PROFE\bin\Debug\ABM_con_el_PROFE.exe
+C:\Users\manue\source\repos\ABM_con_el_PROFE\ABM_con_el_PROFE\bin\Debug\ABM_con_el_PROFE.pdb
+C:\Users\manue\source\repos\ABM_con_el_PROFE\ABM_con_el_PROFE\obj\Debug\ABM_sin_CAPAS.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\ABM_con_el_PROFE\ABM_con_el_PROFE\obj\Debug\ABM_con_el_PROFE.Empleados.resources
+C:\Users\manue\source\repos\ABM_con_el_PROFE\ABM_con_el_PROFE\obj\Debug\ABM_con_el_PROFE.Properties.Resources.resources
+C:\Users\manue\source\repos\ABM_con_el_PROFE\ABM_con_el_PROFE\obj\Debug\ABM_sin_CAPAS.csproj.GenerateResource.cache
+C:\Users\manue\source\repos\ABM_con_el_PROFE\ABM_con_el_PROFE\obj\Debug\ABM_sin_CAPAS.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\ABM_con_el_PROFE\ABM_con_el_PROFE\obj\Debug\ABM_con_el_PROFE.exe
+C:\Users\manue\source\repos\ABM_con_el_PROFE\ABM_con_el_PROFE\obj\Debug\ABM_con_el_PROFE.pdb
